@@ -1,0 +1,10 @@
+/calib_imgs/*.jpg
+*.jpg
+*.npy
+*.png
+*.tex
+*.aux
+*.dvi
+*.log
+*.out
+*.pdf
